@@ -1,2 +1,6 @@
-# Quiz-Carl-Sagan
-A proposta foi unir programação com conhecimento científico, aplicando JSON para armazenar as perguntas e respostas, e lógica para gerenciar o jogo de forma interativa.
+# game5_imersão Dev Nicole
+
+A Pen created on CodePen.
+
+Original URL: [https://codepen.io/Ngomess/pen/bNGyGQz](https://codepen.io/Ngomess/pen/bNGyGQz).
+
